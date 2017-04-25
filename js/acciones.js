@@ -24,7 +24,7 @@ $(document).ready(function(e){
 	
 });//document
 
-function escribehistoria(accio){
+function escribehistoria(accion){
 	$('#eHistoria').append('<li>'+accion+'</li>');
 }
 
